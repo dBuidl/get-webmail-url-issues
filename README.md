@@ -6,10 +6,7 @@ This project is currently only available via the [Live API Website](https://webm
 This project provides a simple API that takes an email or domain and returns the suggested web mail URL. It's designed to make it easier for users to sign up for your website by providing them a direct link to their web mail portal.
 
 ## Features
-
-- Takes an email or domain and returns the suggested web mail URL.
-- Provides a privacy policy that ensures no personal data is collected or stored.
-- Includes a no warranties disclaimer.
+Takes an email or domain and returns the suggested web mail URL.
 
 ## Usage
 
